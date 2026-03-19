@@ -1,0 +1,21 @@
+import React, { useState } from 'react';
+
+export const Section = () => {
+
+const [nome, setNome] = useState("");
+const [nomes, setNomes] = useState(["João", "Maria", "Carlos"])
+
+onChange={(e) => setNome(else.target.value)}
+}
+
+
+
+
+
+
+
+
+
+
+
+}
